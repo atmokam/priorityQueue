@@ -1,2 +1,4 @@
-# priorityQueue
-Course Project
+# Priority Queue
+## Course Project
+
+An implementation of priority queue.
